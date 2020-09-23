@@ -3,7 +3,7 @@ require 'pry'
 def game_hash
   final_hash = {
     :home => {
-    :team_name => "",
+    :team_name => "Brooklyn Nets",
     :colors => {},
     :players => [{:player_name => "Alan Anderson"}, {
       :assists => {}}]
